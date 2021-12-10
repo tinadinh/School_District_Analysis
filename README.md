@@ -19,7 +19,7 @@ The average math score decreased by 0.1 points while the average reading score s
 ![district summary](https://user-images.githubusercontent.com/33900637/145521303-5f93a76c-ead9-47cb-8f4f-53c091805ee2.png)
 
 ### How is the school summary affected?
-Thomas High School moved from 2nd place overall with a passing percentage of 92% down to last place with a passing percentage of 68%.
+Thomas High School moved from 2nd place overall with a passing percentage of 92% down to last place with an overall passing percentage of 65%.
 
 ![school summary](https://user-images.githubusercontent.com/33900637/145521316-2c7e2a97-aff6-4cec-903a-9c068af12a5b.png)
 
