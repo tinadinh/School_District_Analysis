@@ -24,7 +24,7 @@ Thomas High School moved from 2nd place overall with a passing percentage of 92%
 ![school summary](https://user-images.githubusercontent.com/33900637/145521316-2c7e2a97-aff6-4cec-903a-9c068af12a5b.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Replacing ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools does not affect their % Overall Passing mark.  They are still within within the 90 percentile passing mark. However, Thomas High school dropped out of the top 5 high schools in the district, Wright High School moved into the top 5 high schools in the district but the bottom 5 high schools was unaffected
+Replacing ninth graders’ math and reading scores affected Thomas High School’s performance relative to the other schools in such a way that Thomas High school dropped out of the top 5 high schools in the district and Wright High School moved into the top 5 high schools in the district, however, the bottom 5 high schools was unaffected
 
 ### How does replacing the ninth-grade scores affect the following:
 ###  - Math and reading scores by grade
