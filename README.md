@@ -29,20 +29,25 @@ Replacing ninth graders’ math and reading scores affect Thomas High School’s
 ### How does replacing the ninth-grade scores affect the following:
 ###  - Math and reading scores by grade
 - Thomas High School's 9th grade class has no math or reading score data to count thus remained the same for all other schools
-- 
-![math scores](https://user-images.githubusercontent.com/33900637/145521341-16c65054-da26-4034-b05d-600afd9d3923.png)
-![reading scores](https://user-images.githubusercontent.com/33900637/145521355-aea1366a-dc84-4286-a921-060b994dfdf2.png)
+
+![math scores](https://user-images.githubusercontent.com/33900637/145521811-f290bf3d-7f90-4098-b66f-74e69385d59e.png)
+![reading scores](https://user-images.githubusercontent.com/33900637/145521814-f8cfeee0-66d3-4f2e-be96-1775977da3dc.png)
 
 
 ###  - Scores by school spending
 - It changed at the $601-650 bin by a decrease in the percentage passing math, percentage passing reading, and overall passing percentage since Thomas High School was in that spending range. 
 
+![school spending](https://user-images.githubusercontent.com/33900637/145521725-f8eb58a8-053d-4e16-a105-762838cb35ed.png)
+
 ###  - Scores by school size
 - The Medium (1000-2000) bin saw a decrease in the percentage passing math, percentage passing reading, and overall passing percentage since Thomas High School was in that school size. 
-- 
+
+![school size](https://user-images.githubusercontent.com/33900637/145521741-327bafe4-46e9-492a-858d-0f62b18b59fa.png)
+
 ###  - Scores by school type
 - The Charter schools saw a decrease in the percentage passing math, percentage passing reading, and overall passing percentage since Thomas High School was in that school type.
 
+![school type](https://user-images.githubusercontent.com/33900637/145521763-f3f77da6-83b7-428d-bcc9-a868749e3805.png)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 The four changes are reflected in the Average Math & Reading scores, % Passing Math and Reading scores, Overall Passing marks and the funding for each student.  The average markings were slight affected but we can see the difference in funding for each students which is ~ approximately $200.  Thomas High School 2nd stop as the top school doe not change at all.
