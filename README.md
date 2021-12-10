@@ -6,6 +6,7 @@ The purpose of the school district analysis is to find the evidence that the rea
 Data Source: 
 - schools_complete.csv
 - students_complete.csv
+
 Software:
 - Python 3.6.10
 - Anaconda Navigator 2.1.1
