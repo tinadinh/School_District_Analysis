@@ -34,8 +34,7 @@ Replacing ninth graders’ math and reading scores affect Thomas High School’s
 ![reading scores](https://user-images.githubusercontent.com/33900637/145521355-aea1366a-dc84-4286-a921-060b994dfdf2.png)
 
 
-###  - Scores by school spend![Uploading reading scores.png…]()
-ing
+###  - Scores by school spending
 - It changed at the $601-650 bin by a decrease in the percentage passing math, percentage passing reading, and overall passing percentage since Thomas High School was in that spending range. 
 
 ###  - Scores by school size
